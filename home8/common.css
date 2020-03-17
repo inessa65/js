@@ -1,0 +1,32 @@
+body{
+    background-color:yellowgreen;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    width: 40px;
+    height: 40px;
+    background: yellow;
+}
+#box{
+    height: 100px;
+    border: 1px solid black;}
+    
+    .cl{
+    width: 80px;
+    height: 80px;
+    background:red;}
+    
+input{
+    margin-right: 35px;
+}
+
+table tr td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
