@@ -1,0 +1,36 @@
+body {
+  background-color: aqua;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#input {
+  border: 1px solid black;
+  height: 50px;
+  width: 100px;
+  position: relative;
+  background-color: white;
+  color: black;
+  z-index: 1;
+}
+#div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid yellow;
+  position: absolute;
+  top: 103%;
+  background-color: red;
+}
+a {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 10px;
+}
+
+p {
+  margin-top: 2rem;
+  display: flex;
+}
