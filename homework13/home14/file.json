@@ -1,0 +1,23 @@
+[
+    {
+       "name": "DFG",
+       "id": 1234321133,
+       "start": 1978,
+       "description": "sell something",
+       "adres": "shop.json"
+    },
+    {
+       "name": "LKJ",
+       "id": 8764456654,
+       "start": 1999,
+       "description": "buy something",
+       "adres": "shop1.json"
+    },
+    {
+       "name": "UYT",
+       "id": 765345678,
+       "start": 2005,
+       "description": "sell and buy something",
+       "adres": "shop2.json"
+    }
+ ]

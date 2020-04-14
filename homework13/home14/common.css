@@ -1,0 +1,15 @@
+
+
+
+#box{
+    display: flex;
+    margin: 0 auto;
+    width: 960px;
+    justify-content: space-between;
+}
+span{
+   text-transform: uppercase; 
+}
+td{
+    text-transform: uppercase;
+}
