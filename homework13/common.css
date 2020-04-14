@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cornsilk;
+}
+
+img{
+    width: 100px;
+}
+#div{
+   border: 1px solid black;
+   width:191px;
+   margin:10px 10px;
+   padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 4px black;
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    margin: 0 auto;
+}
+ul li{
+    text-decoration: none;
+}
+span{
+    color:blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+    /* padding-bottom: 5px; */
+    padding: 5px;
+}
+#input, #input1{
+    width: 150px;
+margin: 10px;
+}
+#btn{
+    width:130px;
+    border-radius: 20px;
+   
+}
