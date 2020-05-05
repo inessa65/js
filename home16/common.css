@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+}
+div{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
