@@ -1,0 +1,38 @@
+[
+    {
+        "time": 5,
+        "hintContent": "point F",
+        "latitude": 51.73496163915278,
+        "longitude": -1.0379454413532996
+    },
+    {
+        "time": 13,
+        "hintContent": "point E",
+        "latitude": 51.74017571473442,
+        "longitude": -1.3150742602532257
+    },
+    {
+        "time": 14,
+        "hintContent": "point C",
+        "latitude": 51.7214165686511,
+        "longitude": -1.1644147572878725
+    },
+    {
+        "time": 10,
+        "hintContent": "point B",
+        "latitude": 51.72145745285658,
+        "longitude": -1.2491630482776055
+    },
+    {
+        "time": 5,
+        "hintContent": "point D",
+        "latitude": 51.73583824510363,
+        "longitude": -1.0940424351649711
+    },
+    {
+        "time": 2,
+        "hintContent": "point A",
+        "latitude": 51.71721400063117,
+        "longitude": -1.2082082568884593
+    }
+]
