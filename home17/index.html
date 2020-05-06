@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script
+      src="https://yandex.st/jquery/2.2.3/jquery.min.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="https://api-maps.yandex.ru/2.1/?apikey=0335bad1-aa5a-4965-a136-1aee6dd03b75&lang=ru_RU"
+      type="text/javascript"
+    ></script>
+    <link rel="stylesheet" href="common.css" />
+  </head>
+  <body>
+    <div id="app">
+    <div id="map" style="width: 600px; height: 400px;">
+      <div class="map__hint"></div>
+    </div>
+    <div id="wrap">
+      <button id="btn">push</button>
+      <input type="number" id="speed" />
+    </div>
+</div>
+    <script src="script.js"></script>
+  </body>
+</html>
